@@ -21,7 +21,10 @@ Press the "LED Test" button to toggle the LED on Arduino.
 * [Serial API](https://developer.chrome.com/apps/serial)
 * [Runtime](http://developer.chrome.com/apps/app.runtime.html)
 * [Window](http://developer.chrome.com/apps/app.window.html)
-     
+
+## blog
+<a href="http://android.ohwada.jp/archives/4508" target="_blank">Chrome Apps Serial (Japanese)</a>
+
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/ohwada/Chrome_Serial_Sample_1/master/serial_sample_1/assets/screenshot_arduino.png)
 
