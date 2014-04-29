@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="main.css" />
+  <title>Serial Sample 1</title>
+</head>
+<body>
+<div>Serial Sample 1</div><br/>
+<div id="status">Not Connect</div>
+<select id="serial_bitrates"></select><br/>
+<select id="serial_devices"></select>
+<button id="btn_refresh">Refresh</button><br/>
+<button id="btn_open">Open</button>
+<button id="btn_close">Close</button><br/><br/>
+<button id="btn_led">LED Test</button>
+<form>
+	<input id="input_line" type="text" />
+	<button id="btn_submit">Submit</button>
+</form>
+<div id="recv"></div>
+<div id="log"></div>
+<script src="js/serial.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

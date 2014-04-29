@@ -1,0 +1,17 @@
+/**
+ * Serial Sample 1
+ * 2014.04.25 K.OHWADA
+ */
+
+body {
+	background-color: #f8f8f8;
+	font-size: 16px;
+}
+
+#status.error {
+	color: red;
+}
+
+#status.on {
+	color: green;
+}
