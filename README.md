@@ -23,5 +23,5 @@ Press the "LED Test" button to toggle the LED on Arduino.
 * [Window](http://developer.chrome.com/apps/app.window.html)
      
 ## Screenshot
-![screenshot](https://github.com/ohwada/Chrome_Serial_Sample_1/blob/master/serial_sample_1/assets/screenshot_arduino.png)
+![screenshot](https://raw.githubusercontent.com/ohwada/Chrome_Serial_Sample_1/master/serial_sample_1/assets/screenshot_arduino.png)
 
