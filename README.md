@@ -18,7 +18,7 @@ Press the "LED Test" button to toggle the LED on Arduino.
 
 ## Chrome APIs
 
-* [Serial API](http://developer.chrome.com/apps/app.hardware.html#serial)
+* [Serial API](https://developer.chrome.com/apps/serial)
 * [Runtime](http://developer.chrome.com/apps/app.runtime.html)
 * [Window](http://developer.chrome.com/apps/app.window.html)
      
